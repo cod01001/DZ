@@ -1,3 +1,3 @@
 print('hello world')
-print('побольше комитов')
+print('комитов')
 print('яф')
