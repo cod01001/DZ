@@ -48,3 +48,4 @@
 # x = find_duplicates(6,2,3,4,2,2,2,3)
 # print(x)
 
+print('test')
